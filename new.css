@@ -1,0 +1,534 @@
+* {
+   margin: 0 auto;
+   padding: 0;
+}
+
+.frist {
+   height: 35px;
+   width: 100%;
+   color: white;
+
+   /* background-image:  linear-gradient(315deg, #FF7C2C 93%, #b6363600 1%) ; */
+   display: flex;
+   /* background-color: transparent; */
+
+
+
+
+
+}
+
+
+.pg {
+   position: relative;
+   padding: 30px;
+}
+
+
+
+
+.col-xs-6 {
+   position: relative !important;
+   bottom: 10px !important;
+   margin-bottom: 20px !important;
+}
+
+
+
+.title {
+   padding: 20px;
+   position: relative;
+   right: 10px;
+   font-size: 25px;
+   font-weight: bold;
+}
+
+.tit {
+   position: relative;
+   right: 45px;
+   padding: 20px;
+
+}
+
+.ss {
+   flex: 1;
+   background-image: linear-gradient(315deg, rgb(11, 10, 89)88%, #b6363600 1%);
+   background-color: transparent;
+
+
+}
+
+.s1 {
+   flex: 1;
+   background-image: linear-gradient(495deg, rgb(11, 10, 89) 82%, #b6363600 1%);
+   background-color: transparent;
+   width: 300px;
+
+
+}
+
+
+h5 {
+   margin-left: 100px;
+}
+
+
+
+
+
+.ww {
+   position: relative;
+   right: 40px;
+}
+
+.mm {
+   position: relative;
+   margin-left: 120px !important;
+}
+
+.navbar-nav {
+   font-size: 23px !important;
+   padding-left: 50px !important;
+
+}
+
+
+
+.imge {
+
+   background-image: url("https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849825_960_720.jpg");
+   background-size: cover;
+   background-repeat: no-repeats;
+   height: 500px;
+   width: 100%;
+   position: relative;
+
+   text-align: center;
+   margin-top: 0px;
+
+}
+
+.bus {
+   text-align: center;
+   padding-top: 170px;
+   color: green;
+
+}
+
+
+.ii {
+   color: white;
+}
+
+.im {
+   background-color: white;
+   padding: 7px;
+   border: none;
+
+}
+
+
+
+.yell {
+   width: 100%;
+   height: auto;
+   display: flex;
+   /* border: 2px solid yellow; */
+   margin-bottom: 20px;
+   position: relative;
+   margin-top: 20px;
+
+}
+
+
+.oo {
+
+
+   flex: 1;
+   position: relative;
+   left: 0;
+
+}
+
+
+.iim {
+   height: 700px;
+   /* width: 500px; */
+}
+
+
+.ooo {
+   flex: 1;
+}
+
+
+
+.pl {
+   color: black;
+   position: relative;
+   padding-top: 20px;
+   color: green;
+   margin-right: 0px;
+   text-align: left;
+
+}
+
+
+.pl1 {
+   font-size: 25px;
+   /* font-style: bold; */
+   position: relative;
+   top: -10px;
+}
+
+.nknk {
+   font-size: 22px;
+   font-weight: bold;
+   /* margin-left: 10px; */
+   position: relative;
+   top: -10px;
+
+}
+
+.ap {
+   left: 100px;
+
+   position: relative;
+   top: -38px;
+
+}
+
+.as {
+   border-radius: 100%;
+}
+
+
+
+
+
+
+
+.ev {
+   font-size: 15px;
+   padding: 10px;
+   color: rgb(99, 91, 91);
+}
+
+.ev1 {
+   font-size: 15px;
+   /* padding: 10px; */
+   color: rgb(99, 91, 91);
+   position: relative;
+   left: 10px;
+   bottom: 26px;
+}
+
+
+
+.jo {
+   border: none;
+}
+
+.card {
+   border: none;
+}
+
+
+.mt {
+   width: 100%;
+   height: 200px;
+   display: flex;
+   text-align: center;
+
+   padding: 30px;
+}
+
+
+
+.kt {
+   flex: 1;
+}
+
+title .col {
+   color: green;
+   font-size: 60px;
+   /* font-weight: bolder; */
+}
+
+
+.mt {
+   text-align: center;
+}
+
+.z1 {
+   color: green;
+}
+
+
+.z2 {
+   font-weight: bolder;
+   font-size: 35px;
+}
+
+
+.ui {
+   color: green;
+   word-spacing: 2px;
+}
+
+/* .ui1{
+      font-size: 25px;
+     } */
+
+.z {
+   height: 50px;
+   top: -25px;
+   text-align: center;
+   letter-spacing: 2px;
+   word-spacing: 3px;
+   position: relative;
+}
+
+
+.happy {
+   width: 100%;
+   height: 350px;
+   background-color: rgb(143, 208, 210);
+}
+
+.rc {
+   position: relative;
+   top: -160px;
+   border: none !important;
+}
+
+
+
+
+
+
+
+
+
+
+.hp1 {
+
+   width: 222px;
+   height: 250px;
+   background-color: white;
+   border: 1px solid black;
+   padding: 20px;
+   margin-top: 80px;
+   border-radius: 5px;
+   margin-bottom: 20px;
+   position: relative;
+
+
+}
+
+.hhh {
+   margin-top: 100px;
+   border: none;
+
+}
+
+.hp2 {
+   width: 222px;
+   background-color: white;
+   height: 250px;
+   padding: 20px;
+   border-radius: 7px;
+   border: 1px solid black;
+   margin-top: 80px;
+   margin-bottom: 20px;
+   position: relative;
+
+}
+
+
+
+
+.hp3 {
+   width: 222px;
+   border: 1px solid black;
+   margin-bottom: 20px;
+   padding: 20px;
+   background-color: white;
+   height: 250px;
+   margin-top: 80px;
+   border-radius: 7px;
+   position: relative;
+
+}
+
+
+
+
+
+input {
+   width: auto;
+   height: 30px;
+   margin-left: 50px;
+   margin-top: 25px;
+}
+
+.pn {
+   position: relative;
+   /* top: px; */
+   bottom: 130px;
+   border-radius: 100%;
+   right: 90px;
+
+}
+
+.p1 {
+   position: relative;
+   bottom: 110px;
+   border-radius: 100%;
+   right: 120px;
+}
+
+.p2 {
+   position: relative;
+   border-radius: 100%;
+   right: 35px;
+   bottom: 130px;
+}
+
+
+.up {
+   height: 40px;
+   border-radius: 100%;
+   top: 40px;
+   width: 40px;
+   position: relative;
+
+}
+
+.mar {
+   position: relative;
+   bottom: 10px;
+   left: 40px;
+}
+
+.mar1 {
+   position: relative;
+   left: 40px;
+}
+
+.mar2 {
+   position: relative;
+   left: 40px;
+   bottom: 10px;
+}
+
+.roger {
+   position: relative;
+   left: 50px;
+   font-weight: bold;
+}
+
+
+.md {
+   text-align: center;
+   position: relative;
+   top: 83px;
+   font-weight: bolder;
+   font-size: 25px;
+}
+
+.MOO {
+   position: relative;
+   top: 80px;
+   text-align: center;
+}
+
+
+/* .pq{
+      width: 100%;
+      height: 80px;
+      color: black;
+      text-align: center;
+      margin-top: 160px;
+   } */
+
+
+.pq>p {
+   color: green;
+}
+
+.pq>h2 {
+   font-style: bold;
+}
+
+.si {
+   padding: 30px;
+}
+
+.mt3 {
+   height: 50px;
+   text-align: center !important;
+}
+
+
+.sunn {
+   padding-top: 40px;
+   background-color: aqua;
+}
+
+
+.gg {
+   height: 40px;
+}
+
+
+.jjj>h6 {
+   padding: 10px !important;
+   color: black;
+   left: 40px;
+   position: relative;
+}
+
+
+.jjj>h1 {
+   text-align: center;
+   color: black;
+}
+
+
+.dm {
+   text-align: center;
+   /* background-color: yellow; */
+   position: relative;
+   padding: 70px;
+}
+
+
+.btn-outline-success {
+   position: relative;
+   height: 35px;
+   top: 8px !important;
+}
+
+
+
+.body {
+   text-align: left;
+
+}
+
+
+.form-inline {
+   display: flex;
+}
+
+
+
+
+
+
+.text-center {
+   color: white;
+   position: relative;
+   top: 20px;
+}
